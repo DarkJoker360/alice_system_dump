@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMITest>
+    <Properties key="ro.mmi.support_card_slot_share" value="false"/>
+    <Properties key="ro.mmi.support_fn_share" value="false"/>
+    <Properties key="ro.mmi.support_double_flash" value="false"/>
+    <Properties key="ro.mmi.support_flash" value="false"/>
+    <Properties key="ro.mmi.support_auto_focus" value="true"/>
+    <Properties key="ro.mmi.hall_sensor_poles" value="1,2"/>
+    <Properties key="ro.mmi.sreeen_rotation" value="port"/>
+    <Properties key="ro.mmi.camera_antibanding" value="50hz"/>
+    <Properties key="ro.mmi.keypad_test_list" value="24,25,26"/>
+    <Properties key="ro.mmi.wire_control_key_number" value="1"/>
+    <Properties key="ro.mmi.touch_screen_rows" value="23"/>
+    <Properties key="ro.mmi.touch_screen_columns" value="13"/>
+    <Properties key="ro.mmi.approach_threshold" value="5.0f"/>
+    <Properties key="ro.mmi.touch_screen_test_type" value="0"/>
+    <Properties key="ro.mmi.indicator_light_list" value="red,green,blue"/>
+    <Properties key="ro.mmi.show_pointer_location" value="false"/>
+    <Properties key="ro.mmi.enable_gesture_detector" value="false"/>
+    <Properties key="ro.mmi.support_slave_camera_otp" value="true"/>
+    <Properties key="ro.mmi.support_camera_otp" value="true"/>
+    <MMIManualNormalTest>
+        <TestItem key="ro.mmi.welcome_come" value="true"></TestItem>
+        <TestItem key="ro.mmi.battery_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.auxiliary_board_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.sdcard_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.keypad_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.indicator_light_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.lcd_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.lcd_light_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.touch_screen_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.flash_light_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.camera_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.slave_camera_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.compass_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.speaker_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.receiver_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.main_mic_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.auxiliary_mic_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.headset_mic_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.fm_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.wire_control_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.bluetooth_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.wifi_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.sim_card_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.approach_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.vibrator_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.gravity_sensor_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.capacitance_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.light_sensor_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.test_result" value="true"></TestItem>
+        <!--Factory version balack list.The items in the tag will not be tested in Factory version for non-extend test
+            Notes:the TestItem value should be set "false"-->
+        <Factory>
+        </Factory>
+
+        <!--Factory2 version balack list.The items in the tag will not be tested in Factory version for extend test
+            Notes:the TestItem value should be set "false"-->
+        <Factory2>
+        </Factory2>
+        <!--Normal version balack list.The items in the tag will not be tested in Normal version
+            Notes:the TestItem value should be set "false"-->
+        <Normal>
+        </Normal>
+    </MMIManualNormalTest>
+    <MMIManualSimpleTest>
+        <TestItem key="ro.mmi.welcome_come" value="true"></TestItem>
+        <TestItem key="ro.mmi.battery_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.auxiliary_board_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.keypad_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.lcd_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.camera_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.slave_camera_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.compass_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.approach_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.vibrator_test" value="true"></TestItem>
+        <TestItem key="ro.mmi.test_result" value="true"></TestItem>
+    </MMIManualSimpleTest>
+</MMITest>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout version="2.3.001" updatetime="20140401">
+	<switch>
+	    <type id="00" src="type_00.png" title="Like" selected="true"/>
+		
+		<type id="01" src="type_01.png" title="Journey" selected="true">
+		  	<image src="bigpicture_01_1.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_2.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_3.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_4.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_5.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+                        <image src="bigpicture_01_6.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_7.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_8.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_9.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_10.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_11.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_12.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+                        <image src="bigpicture_01_13.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_14.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_15.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_01_16.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+	        </type>
+		
+		<type id="02" src="type_02.png" title="Car" selected="true">
+			<image src="bigpicture_02_1.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+		</type>
+		
+		<type id="03" src="type_03.png" title="Star" selected="true">
+		</type>		
+		
+		<type id="04" src="type_04.png" title="Fashion" selected="true">
+		<image src="bigpicture_04_1.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+                <image src="bigpicture_04_2.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+                <image src="bigpicture_04_3.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+		</type>
+		
+	    <type id="05" src="type_05.png" title="Life" selected="true">
+			<image src="bigpicture_05_1.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_2.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_3.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_4.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_5.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_6.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_7.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_8.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_9.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_10.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_11.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_05_12.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>	
+		</type>
+			
+	    <type id="06" src="type_06.png" title="Sport" selected="true">
+		</type>
+		<type id="07" src="type_07.png" title="Leica" selected="true">
+                        <image src="bigpicture_07_1.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_2.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_3.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_4.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_5.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_6.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_7.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_8.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_9.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+			<image src="bigpicture_07_10.jpg" title="" content="" cpname="" download="" contenturl="" packagename=""/>
+		</type>
+	</switch>
+</layout>

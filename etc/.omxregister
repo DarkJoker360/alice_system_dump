@@ -1,0 +1,3 @@
+/system/lib/libomxvpu.so
+ ==> OMX.vpu.video_decoder ==> OMX.vpu.video_decoder.avc:OMX.vpu.video_decoder.mpeg2:OMX.vpu.video_decoder.mpeg4:OMX.vpu.video_decoder.rv:OMX.vpu.video_decoder.wmv:OMX.vpu.video_decoder.h263:OMX.vpu.video_decoder.msmpeg:OMX.vpu.video_decoder.avs:OMX.vpu.video_decoder.vp8:OMX.vpu.video_decoder.tho:OMX.vpu.image_decoder.jpg: ==> /system/etc/.omxregister
+ ==> OMX.vpu.video_encoder ==> OMX.vpu.video_encoder.mpeg4:OMX.vpu.video_encoder.avc:OMX.vpu.video_encoder.h263:OMX.vpu.image_encoder:
